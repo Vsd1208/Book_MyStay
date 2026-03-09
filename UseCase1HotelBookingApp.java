@@ -4,5 +4,6 @@ public class UseCase1HotelBookingApp {
         System.out.println("   Welcome to Hotel Booking System  ");
         System.out.println("====================================");
         System.out.println("Application started successfully.");
+
     }
 }
