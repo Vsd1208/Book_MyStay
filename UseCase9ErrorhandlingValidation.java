@@ -11,7 +11,7 @@ class UseCase9ErrorHandlingValidation {
     // Inventory representing room types and available counts
     private static Map<String, Integer> roomInventory = new HashMap<>();
 
-    static {
+    static { /*made my VSD*/
         roomInventory.put("Standard", 5);
         roomInventory.put("Deluxe", 3);
         roomInventory.put("Suite", 2);
